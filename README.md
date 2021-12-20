@@ -1,8 +1,12 @@
-# CSCI-4140-Project
+# Binomial Twitter Sentiment Analysis | CSCI 4140 - Natural Language Processing / Group Project
 
-This is a rewritten version that implements the training dataset as a ML model.
-This model then undergoes 6 resampling methods to balance the dataset.
-Each model is applied in isolation and start off with the exact same data. 
+This project implements a training dataset as a ML model. Furthermore, this model undergoes
+6 resampling methods to balance the underlying data-set (as a result of an imbalance).
+
+Each model is applied in isolation and start off with the exact same data. Below are the
+library and language requirements that should be available as installed dependencies on
+your respective machine. Conclusively, this is a group project that was developed in
+collaboration with @RashunB  
 
 Requirements:
 python 3.8
@@ -18,4 +22,6 @@ bs4 (beautiful soup)
 pandas
 
 numpy
+
+lxml (parser)
 
