@@ -25,3 +25,12 @@ numpy
 
 lxml (parser)
 
+# Running This Application
+This application can be run from the CLI by executing the **main.py** script:
+
+```
+python3 main.py
+```
+
+This assumes that you have a valid **Python3.x** installation on your local machine.
+
